@@ -42,13 +42,14 @@ Acunetix offers a strong and unique solution for analyzing off-the-shelf and cus
 Run: 
 
 ```docker build .```
+
 hub and docker: https://hub.docker.com/r/vouu/acu
 
-docker pull vouu/acu
+step#1: docker pull vouu/acu
 
-Run `docker run -it -d -p 443:3443 vouu/acu`
+step#2: Run `docker run -it -d -p 443:3443 vouu/acu`
 
-Login Info
+step#3: Login Info
 
 ```
 login: https://localhost
