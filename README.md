@@ -45,7 +45,7 @@ Run:
 
 hub and docker: https://hub.docker.com/r/vouu/acu
 
-step#1: docker pull vouu/acu
+step#1: `docker pull vouu/acu`
 
 step#2: Run `docker run -it -d -p 443:3443 vouu/acu`
 
